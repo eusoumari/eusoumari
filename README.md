@@ -1,26 +1,20 @@
-## <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/"> Jonatas Rodolfo Pereira dos Santos </a>
+## <a href="https://www.linkedin.com/in/aquinomaria/"> Maria Aquino </a>
  
 ## Sobre mim <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697119-b5971800-f0ff-4761-bdb6-1e31436199b0.png" target="_blank"/>
 
-Tenho 24 anos e sou técnico em informática pelo Instituto Federal do Rio Grande do Norte (IFRN), formado em 2016, Sou bacharel em Ciências e Tecnologia com ênfase em Tecnologia de Computação pela Universidade Federal do Rio Grande do Norte (UFRN), formado em 2019. Atualmente, sou estudante de Engenharia de Computação também pela UFRN. 
-Iniciei minha trajetória com desenvolvimento <i>web back-end</i>, e atualmente sou desenvolvedor <i>full stack</i>, tive certa experiência com engenharia de dados, e sou apaixonado também pelo desenvolvimento de jogos, que desenvolvo como <i>hobby</i>, <i>game engines</i> e de vez em quando me aventuro com segurança da informação.
+Durante minha trajetória profissional sempre fui elogiada por um talento: a simplicidade. Nesse sentido, tenho grande facilidade de pensar e me relacionar de maneira descomplicada e fluída, e isso me dá liberdade para elaborar soluções criativas. Assim, aprender a programar foi amor à primeira vista.
+Unir a paixão por escrever códigos com a criatividade na criação de soluções, que otimizam diariamente a vida das pessoas, é o que me motivou nessa grande transição de carreira. 
 
 ## Tecnologias <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697292-cbd65158-6e30-4bf0-a42e-2ce35aa6002e.png" target="_blank"/>
-- <i>Front-end</i> com HTML, CSS, JavaScript, ReactJS
-- <i>Back-end</i> com .Net C#, Java, NodeJS, PostgreSQL, MySQL e SQL Server
-- <i>Games</i> com Unity 3D, disponíveis em <a href="https://rodolfostark.itch.io/"><img align="center" alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white"/></a>
-- Segurança da informação na plataforma <a href="https://tryhackme.com/p/rodolfostark">TryHackMe</a>
-- Cursos e demais formações em tecnologia na <a href="https://cursos.alura.com.br/user/rodolfojonatas">Alura</a>
+- <i>Front-end</i> com HTML, CSS, JavaScript
+- <i>Back-end</i> com .Net C#, Java e Python
 
 ## Contatos <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697414-c8c405a7-de48-4a3d-8262-bc4cb89055ee.png" target="_blank"/>
 <div style="display: inline_block"><br>
- <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/">
+ <a href="https://www.linkedin.com/in/aquinomaria/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a>
- <a href="https://medium.com/@jonatas.santos.700">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
- </a>
- <a href="mailto:rodolfojonatas@live.com">
+ <a href="mariaaquinodeveloper@outlook.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
  </a>
 </div>
@@ -29,33 +23,25 @@ Iniciei minha trajetória com desenvolvimento <i>web back-end</i>, e atualmente 
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/rodolfostark">
-  <img align="center" alt="Jonatas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">
-  <img align="center" alt="Jonatas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" target="_blank">
-  <img align="center" alt="Jonatas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg" target="_blank">
-  <img align="center" alt="Jonatas-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-Postegresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" target="_blank">
- <img align="center" alt="Jonatas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" target="_blank">
- <img align="center" alt="Jonatas-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" target="_blank">
- <img align="center" alt="Jonatas-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" target="_blank">
- <img align="center" alt="Jonatas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank">
- <img align="center" alt="Jonatas-Clojure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" target="_blank">
- <img align="center" alt="Jonatas-Clojure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" target="_blank">
+  <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">
+  <img align="center" alt="Mari-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" target="_blank">
+  <img align="center" alt="Mari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank">
+  <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank">
+  <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank">
+  <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
+  <img align="center" alt="Mari-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" target="_blank">
+  <img align="center" alt="Mari-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg" target="_blank">
+  <img align="center" alt="Mari-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" target="_blank">
+  <img align="center" alt="Mari-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" target="_blank">
+  <img align="center" alt="Mari-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank">
 </div>
 
 ##
 <div>
-  <a href="https://github.com/rodolfostark">
+  <a href="https://github.com/eusoumari">
    
-  ![Snake animation](https://github.com/rodolfostark/rodolfostark/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/eusoumari/eusoumari/blob/output/github-contribution-grid-snake.svg) 
    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfostark&show_icons=true&theme=omni&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfostark&layout=compact&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eusoumari&show_icons=true&theme=omni&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusoumari&layout=compact&theme=omni"/>
 </div> 
