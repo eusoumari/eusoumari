@@ -6,8 +6,8 @@ Durante minha trajetória profissional sempre fui elogiada por um talento: a sim
 Unir a paixão por escrever códigos com a criatividade na criação de soluções, que otimizam diariamente a vida das pessoas, é o que me motivou nessa grande transição de carreira. 
 
 ## Tecnologias <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697292-cbd65158-6e30-4bf0-a42e-2ce35aa6002e.png" target="_blank"/>
-- <i>Front-end</i> com HTML, CSS, JavaScript
-- <i>Back-end</i> com .Net C#, Java e Python
+- <i>Front-end</i> com HTML, CSS, JavaScript e ReactJs
+- <i>Back-end</i> com Rust, C#, Java, PHP e Python
 
 ## Contatos <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697414-c8c405a7-de48-4a3d-8262-bc4cb89055ee.png" target="_blank"/>
 <div style="display: inline_block"><br>
@@ -34,8 +34,9 @@ Unir a paixão por escrever códigos com a criatividade na criação de soluçõ
   <img align="center" alt="Mari-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" target="_blank">
   <img align="center" alt="Mari-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" target="_blank">
   <img align="center" alt="Mari-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank">
+  <img align="center" alt="Mari-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" target="_blank">
 </div>
-
+   
 ##
 <div>
   <a href="https://github.com/eusoumari">
