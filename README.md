@@ -41,7 +41,7 @@ Unir a paixão por escrever códigos com a criatividade na criação de soluçõ
 <div>
   <a href="https://github.com/eusoumari">
    
-  ![Snake animation](https://github.com/eusoumari/eusoumari/blob/output/github-contribution-grid-snake.svg) 
+ 
    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eusoumari&show_icons=true&theme=omni&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusoumari&layout=compact&theme=omni"/>
