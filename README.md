@@ -1,3 +1,7 @@
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
+</div>
+
 ## ⚔️ **Adventurer's Log**: Maria Aquino 🛡️
 
 **"In the realms of technology, a developer ventures forth, crafting elegant solutions with simplicity and creativity."**
