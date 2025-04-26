@@ -1,6 +1,6 @@
-🌸 Olá, meu nome é Maria! Sou apaixonada por tecnologia, resolver problemas e encontrar soluções criativas. Desde pequena, sempre fui muito solícita e curiosa, o que naturalmente trouxe para o mundo corporativo.
+🌸 Hi, my name is Maria! I'm passionate about technology, solving problems, and finding creative solutions. Since I was little, I've always been very helpful and curious, which naturally brought me to the corporate world.
 
-Amo ouvir música e sou completamente fã de RPG de mesa — uma nerd 🤓 assumida! Apesar de gostar da área de engenharia, também me interesso bastante por aspectos mais visuais, como desenvolvimento front-end (JavaScript, CSS e HTML). No entanto, tenho uma preferência especial pelo back-end.
+I love listening to music and I'm a huge fan of tabletop RPGs — a self-confessed nerd 🤓! Although I like the engineering field, I'm also very interested in more visual aspects, such as front-end development (JavaScript, CSS, and HTML). However, I have a special preference for the back-end.
 
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
@@ -9,13 +9,13 @@ Amo ouvir música e sou completamente fã de RPG de mesa — uma nerd 🤓 assum
 
 
 
-Skills  
+# Skills 🌸
+
 - **Back-End**: Rust, Java, Python, C++  
 - **Front-End**: JavaScript, React.js, React Native  
 - **Other Tools**: Power BI, PHP, PowerShell, Git  
 
-
-LINGUAGENS 
+# Linguagens 🌸
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
@@ -38,7 +38,7 @@ LINGUAGENS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="TailwindCSS" />
 </div>
 
-# 👾 encontre me 👇🏾
+# Contato 🌸
 
 - 😺 [GitHub](https://github.com/eusoumari)  
 - 📧 [E-mail](mailto:mariaaquinodeveloper@outlook.com)  
