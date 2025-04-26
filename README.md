@@ -15,7 +15,7 @@ I love listening to music and I'm a huge fan of tabletop RPGs — a self-confess
 - **Front-End**: JavaScript, React.js, CSS , HTML 
 - **Other Tools**: Power BI, PHP, PowerShell, Git  
 
-# Linguagens 
+# Languages
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
