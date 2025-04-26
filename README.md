@@ -2,8 +2,6 @@
 
 Amo ouvir música e sou completamente fã de RPG de mesa — uma nerd 🤓 assumida! Apesar de gostar da área de engenharia, também me interesso bastante por aspectos mais visuais, como desenvolvimento front-end (JavaScript, CSS e HTML). No entanto, tenho uma preferência especial pelo back-end.
 
-Estou sempre em busca de aprender mais, crescer profissionalmente e aberta a novas oportunidades!
-
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
 </div>
@@ -17,7 +15,7 @@ Skills
 - **Other Tools**: Power BI, PHP, PowerShell, Git  
 
 
-Languages  
+LINGUAGENS 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
@@ -40,7 +38,7 @@ Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="TailwindCSS" />
 </div>
 
-👾 encontre me 👇🏾
+# 👾 encontre me 👇🏾
 
 - 😺 [GitHub](https://github.com/eusoumari)  
 - 📧 [E-mail](mailto:mariaaquinodeveloper@outlook.com)  
