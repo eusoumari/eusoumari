@@ -1,3 +1,5 @@
+🌸 olá!! 
+
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
 </div>
@@ -33,6 +35,8 @@ Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="TailwindCSS" />
 </div>
+
+👾 encontre me 👇🏾
 
 - 😺 [GitHub](https://github.com/eusoumari)  
 - 📧 [E-mail](mailto:mariaaquinodeveloper@outlook.com)  
