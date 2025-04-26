@@ -1,4 +1,8 @@
-🌸 olá!! 
+🌸 Olá, meu nome é Maria! Sou apaixonada por tecnologia, resolver problemas e encontrar soluções criativas. Desde pequena, sempre fui muito solícita e curiosa, o que naturalmente trouxe para o mundo corporativo.
+
+Amo ouvir música e sou completamente fã de RPG de mesa — uma nerd 🤓 assumida! Apesar de gostar da área de engenharia, também me interesso bastante por aspectos mais visuais, como desenvolvimento front-end (JavaScript, CSS e HTML). No entanto, tenho uma preferência especial pelo back-end.
+
+Estou sempre em busca de aprender mais, crescer profissionalmente e aberta a novas oportunidades!
 
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
