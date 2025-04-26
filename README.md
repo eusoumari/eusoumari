@@ -17,16 +17,15 @@ Over the years, I have developed solid skills in programming languages such as R
 
 I am passionate about technology and constantly strive to deepen my knowledge in different areas of this universe. Solving problems, finding project solutions, and coding are some of the things I love the most.
 
----
 
-### 🛠️ **Skills and Equipment**  
+
+Skills  
 - **Back-End**: Rust, Java, Python, C++  
 - **Front-End**: JavaScript, React.js, React Native  
 - **Other Tools**: Power BI, PHP, PowerShell, Git  
 
----
 
-### 📜 **Languages & Tools**  
+Languages  
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
@@ -49,12 +48,6 @@ I am passionate about technology and constantly strive to deepen my knowledge in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="TailwindCSS" />
 </div>
 
----
-
-### 🌟 **Guild Connections**  
 - 😺 [GitHub](https://github.com/eusoumari)  
 - 📧 [E-mail](mailto:mariaaquinodeveloper@outlook.com)  
 
----
-
-🌟 **"May the code guide you to endless adventures!"** 🌌
