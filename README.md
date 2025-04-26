@@ -2,20 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
 </div>
 
-## ⚔️ **Adventurer's Log**: Maria Aquino 🛡️
-
-**"In the realms of technology, a developer ventures forth, crafting elegant solutions with simplicity and creativity."**
-
----
-
-### 🧙 **The Tale So Far...**  
-*Hello, World! 🌸*
-
-I have over 10 years of experience in programming. My journey began with a degree in Information Technology, followed by my first job as a backend developer and later as a junior full-stack developer. Soon after, I started my master's degree in Software Engineering at the Federal University of Rio Grande do Norte. To complement my education, I completed a Ph.D. in Computer Science, concluding my academic journey.
-
-Over the years, I have developed solid skills in programming languages such as Rust, Python, C++, and Java. Additionally, I have expertise in Power BI, PHP, Git, front-end development, React Native, databases, and PowerShell. My professional experience includes working as a senior developer and senior specialist.
-
-I am passionate about technology and constantly strive to deepen my knowledge in different areas of this universe. Solving problems, finding project solutions, and coding are some of the things I love the most.
 
 
 
