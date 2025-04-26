@@ -9,13 +9,13 @@ I love listening to music and I'm a huge fan of tabletop RPGs — a self-confess
 
 
 
-# Skills 🌸
+# Skills 
 
 - **Back-End**: Rust, Java, Python, C++  
-- **Front-End**: JavaScript, React.js, React Native  
+- **Front-End**: JavaScript, React.js, CSS , HTML 
 - **Other Tools**: Power BI, PHP, PowerShell, Git  
 
-# Linguagens 🌸
+# Linguagens 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
@@ -38,7 +38,7 @@ I love listening to music and I'm a huge fan of tabletop RPGs — a self-confess
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="TailwindCSS" />
 </div>
 
-# Contato 🌸
+# Contact me
 
 - 😺 [GitHub](https://github.com/eusoumari)  
 - 📧 [E-mail](mailto:mariaaquinodeveloper@outlook.com)  
